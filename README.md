@@ -1,6 +1,6 @@
 ## Olá, eu sou o Douglas Pedro 🐱‍💻
 
-- 👨🏻‍🎓 Formado em Sistemas de Informação;
+- 👨🏻‍🎓  Sistemas de Informação;
 - 🔭 Atualmente trabalho com Delphi;
 - 🌱 Estou estudando HTML5, CSS, e JS, para poder me inserir na área de Desenvolvimento Web;
 - 👨🏻‍💻 Fissurado em landing Pages;
