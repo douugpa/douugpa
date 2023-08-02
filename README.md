@@ -13,7 +13,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/110000657/184542547-6abb37aa-ab89-4f73-8eef-3e9e9411134e.png" height=30px width=30px hspace=3px/> 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height=30px width=30px hspace=3px/ />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height=30px width=30px hspace=3px/ />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height=30px width=30px hspace=3px/ />      
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height=30px width=30px hspace=3px/ />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height=30px width=30px hspace=3px/ />     
 </div>
 
 ##
