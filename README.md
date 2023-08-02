@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓  Sistemas de Informação;
 - 🔭 Atualmente trabalho com Delphi 7 e XE7;
-- 🌱 Estou estudando desenvolvimento Android Nativo;
+- 🌱 Estou estudando desenvolvimento Android Nativo(Java e Kotlin);
 - 🎶 Um fato sobre mim: Sou multi instrumentista;
 
 <div style="display: inline_block"><br>
