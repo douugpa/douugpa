@@ -14,7 +14,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height=30px width=30px hspace=3px/ />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height=30px width=30px hspace=3px/ />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height=30px width=30px hspace=3px/ />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height=30px width=30px hspace=3px/ />     
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=30px width=30px hspace=3px/ />     
 </div>
 
 ##
