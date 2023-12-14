@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓  Sistemas de Informação;
 - 🔭 Atualmente trabalho com Delphi 7 e XE7;
-- 🌱 Estou estudando desenvolvimento/automações utilizando Python;
+- 🌱 Estou estudando desenvolvimento Front-End e Back-End com HTML, CSS e JS.
 - 🎶 Um fato sobre mim: Sou multi instrumentista;
 
 <div style="display: inline_block"><br>
